@@ -16,8 +16,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 
 5. Also do a "normal" playback which allows to move songs to the corresponding folders by the means of a graphical user interface rather than the volume buttons
 
-
-
+&nbsp;
 
 ## Installation
 
