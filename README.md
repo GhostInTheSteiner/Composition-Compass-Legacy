@@ -44,6 +44,8 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
       1.7.1  Run 'termux-setup-storage'
       
       1.7.2  Copy "install_youtubedl.sh" to Termux home directory and run
+      
+&nbsp;
 
 2.	Restore composition compass backup data.
 
@@ -54,6 +56,8 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
     4.1 Add a Last.fm API key
   
     4.2 Define track exceptions
+          
+&nbsp;
   
 5. Grant necessary permissions to Tasker
   
@@ -64,6 +68,8 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
     5.3 Grant usage access
   
     5.4 Grant all other requested permissions as well
+    
+&nbsp;
 
 6. Add shortcut to 'FrontEnd' task to home screen.
     
