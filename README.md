@@ -139,7 +139,7 @@ Opens "Drive Sync"-app and starts synchronization of the configured mappings bet
 Asks for an item to listen to, and opens Musicolet along with a local "Station Control" user interface afterwards
 
 
-The following items are available:
+The following **items** are available:
 
 1. <ins>Station</ins>  
 This prepares a station folder inside "Pandora/Stations" for playback. Within Musicolet the previously selected station folder needs to be opened afterwards.
@@ -152,7 +152,7 @@ This prepares the "Favorites" folder for playback. Within Musicolet this folder 
 This allows to listen to anything, however liking and disliking will be disabled.
 
 
-This interface generally allows to...
+The **interface** generally allows to...
 
 1. <ins>Show "Artist Info"</ins>  
 Show an "artist pane" on the left side of the screen, which gives you a short biography about the currently playing artist and the styles usually associated with that artist. Tapping on the biography text exposes Composition Compass' download options and allows you to perform a Google search query for the artist, as well as to open the artist's Last.fm page.
