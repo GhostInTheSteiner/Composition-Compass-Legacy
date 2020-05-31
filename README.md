@@ -20,39 +20,39 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 
 ## Installation
 
-**1. Install Tasker from Play Store**
+1.	Install Tasker from Play Store
 
-   1.1	Install Scroball from Play Store and login to Last.fm
+    1.1	Install Scroball from Play Store and login to Last.fm
     
-   1.2	Install TouchTask plugin for Tasker from Play Store
+    1.2	Install TouchTask plugin for Tasker from Play Store
     
-   1.3 Install Musicolet from Play Store
+    1.3 Install Musicolet from Play Store
     
-   1.4	Install Drive Sync from Play Store
+    1.4	Install Drive Sync from Play Store
     
-   1.5 Install Spotify from Play Store
+    1.5 Install Spotify from Play Store
     
-   1.6 Install Pandora and Orbot
+    1.6 Install Pandora and Orbot
     
-   1.6.1 Pandora from Play Store or external source, depending on Pandora's availability in your country.
+      1.6.1 Pandora from Play Store or external source, depending on Pandora's availability in your country.
       
-   1.6.2 **Composition Compass only supports the use of Pandora through TOR**. If you life in a country where Pandora is accessible without a Proxy just delete the "Launch App -> Orbot" action in the start task of Pandora Scraper project.
+      1.6.2 **Composition Compass only supports the use of Pandora through TOR**. If you life in a country where Pandora is accessible without a Proxy just delete the "Launch App -> Orbot" action in the start task of Pandora Scraper project.
       
-   1.7	 Install Termux from Play Store
+    1.7	 Install Termux from Play Store
     
-   1.7.1  Run 'termux-setup-storage'
-    
-   1.7.2  Copy "install_youtubedl.sh" to Termux home directory and run
+      1.7.1  Run 'termux-setup-storage'
+      
+      1.7.2  Copy "install_youtubedl.sh" to Termux home directory and run
       
 &nbsp;
 
-2.	**Restore composition compass backup data.**
+2.	Restore composition compass backup data.
     
     2.1	Copy "Pandora" folder to "/storage/<external_sdcard_name>/Android/data/com.termux/files"
 
 &nbsp;
 
-3. **Edit configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.**
+3. Edit configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.
 
     3.1 Add a Last.fm API key
   
@@ -60,7 +60,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
           
 &nbsp;
   
-**4. Grant necessary permissions to Tasker**
+4. Grant necessary permissions to Tasker
   
     4.1 Grant notification access
   
@@ -72,7 +72,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
     
 &nbsp;
 
-5. **Add shortcut to 'FrontEnd' task to home screen.**
+5. Add shortcut to 'FrontEnd' task to home screen.
     
     5.1 Launch shortcut and enter path to sdcard root.
 
