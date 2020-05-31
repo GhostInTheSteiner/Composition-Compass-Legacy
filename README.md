@@ -79,7 +79,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
     
     6.1 Launch shortcut and enter path to sdcard root.
 
-
+&nbsp;
 
 
 ## Features
