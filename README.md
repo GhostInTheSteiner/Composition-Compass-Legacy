@@ -20,7 +20,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 
 ## Installation
 
-**1.	Install Tasker from Play Store**
+1.	**Install Tasker from Play Store**
 
     1.1	Install Scroball from Play Store and login to Last.fm
     
@@ -46,13 +46,13 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
       
 &nbsp;
 
-**2.	Restore composition compass backup data.**
+2.	**Restore composition compass backup data.**
     
     2.1	Copy "Pandora" folder to "/storage/<external_sdcard_name>/Android/data/com.termux/files"
 
 &nbsp;
 
-**3. Edit configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.**
+3. **Edit configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.**
 
     3.1 Add a Last.fm API key
   
@@ -72,7 +72,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
     
 &nbsp;
 
-**5. Add shortcut to 'FrontEnd' task to home screen.**
+5. **Add shortcut to 'FrontEnd' task to home screen.**
     
     5.1 Launch shortcut and enter path to sdcard root.
 
