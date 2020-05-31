@@ -50,17 +50,24 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 3.	Copy "Pandora" folder to "/storage/<external_sdcard_name>/Android/data/com.termux/files"
 
 4. Edit configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.
-  4.1 Add a Last.fm API key
-  4.2 Define track exceptions
 
+    4.1 Add a Last.fm API key
+  
+    4.2 Define track exceptions
+  
 5. Grant necessary permissions to Tasker
-  5.1 Grant notification access
-  5.2 Grant accessibility service
-  5.3 Grant usage access
-  5.4 Grant all other requested permissions as well
+  
+    5.1 Grant notification access
+  
+    5.2 Grant accessibility service
+  
+    5.3 Grant usage access
+  
+    5.4 Grant all other requested permissions as well
 
 6. Add shortcut to 'FrontEnd' task to home screen.
-  6.1 Launch shortcut and enter path to sdcard root.
+    
+    6.1 Launch shortcut and enter path to sdcard root.
 
 
 
