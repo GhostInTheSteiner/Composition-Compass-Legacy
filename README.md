@@ -6,19 +6,19 @@ The following is a documentation to **"Composition Compass"**: A tasker project,
 
 At its core, it supports the following features:
 
-1. Scrape song informations from Pandora stations/Spotify playlists
+1. Scrape song informations from Pandora stations/Spotify playlists.
 
-2. Download all those songs automatically from YouTube (as batch download)
+2. Download all those songs automatically from YouTube (as batch download).
     
-    2.1 Alternatively download a specific artist, a specific album or similar songs to a specific one from YouTube (doesn't have anything to do with Pandora, as the songs will be downloaded based on your input and Last.fm informations)
+    2.1 Alternatively download a specific artist, a specific album or similar songs to a specific one from YouTube (doesn't have anything to do with Pandora, as the songs will be downloaded based on your input and Last.fm informations).
 
-3. Organise the downloads into local folders (one for each scraped station, artist or album). "Similar tracks" are treated as stations here.
+3. Organise the downloads into local folders (one for each scraped station, artist or album).
 
 3. Play the downloaded songs in "Carmode": You can play a downloaded station folder via Bluetooth and just press Vol+ or Vol- keys (without even looking on your phone) to move the currently playing track to a 'favorites' or ' recycle bin' folder.
 
 4. Play the favorites folder in carmode as well. Here Vol+ and Vol- move a track to "More interesting" and "Less interesting" sub-folders.
 
-5. Also do a "normal" playback which allows to move songs to the corresponding folders by the means of a graphical user interface rather than the volume buttons
+5. Also do a "normal" playback which allows to move songs to the corresponding folders by the means of a graphical user interface rather than the volume buttons.
 
 &nbsp;
 
