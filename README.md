@@ -48,10 +48,8 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 &nbsp;
 
 2.	Restore composition compass backup data.
-
-&nbsp;
-
-3.	Copy "Pandora" folder to "/storage/<external_sdcard_name>/Android/data/com.termux/files"
+    
+    2.1	Copy "Pandora" folder to "/storage/<external_sdcard_name>/Android/data/com.termux/files"
 
 &nbsp;
 
