@@ -80,6 +80,7 @@ The following is an explanation of the functionality offered after launching the
 #### Scrape Pandora
 Start a new scraping process for Pandora. The Pandora app will be repeatedly opened and closed, and song meta-informations be scraped during this process. Output can be found in "Pandora/song_log.csv".
 This requires you to set up a Pandora station (inside the Pandora app) *before* running 'Scrape Pandora', as only the current station will be scraped.
+
 Scraping title and artist informations is based on Logcat entries of Scroball. Therefore ensure the app is set up properly before launching the Scrape Pandora task. You just need to be logged in to Last.fm inside the Scroball app, afterwards Composition Compass shouldn't have any issues fetching track meta data.
 You can always cancel this task by pressing Home Button.
 
@@ -88,6 +89,7 @@ You can always cancel this task by pressing Home Button.
 
 #### Scrape Spotify
 Start a new scrapping task for Spotify. Instead of repeatedly opening and closing the app though, this is done by the means of skipping through the currently opened item (e.g. Playlist, Album or Radio), which you need to have opened before launching this task as well. As it is for Pandora, the fetched informations will be stored in 'song_log.csv'.
+
 I don't recommend using the Spotify Scraper for scrapping a Spotify Radio. Pandora is pretty much the same, and it's got the Music Genome Project as backing. If you want to know what this is look it up yourself, but essentially this means Pandora's recommendations should have a way stronger tendency to be what you're *actually* looking for. I would also confirm this from my own experience.
 
 
