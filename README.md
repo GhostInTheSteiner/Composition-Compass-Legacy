@@ -46,7 +46,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
       
 &nbsp;
 
-2.	Restore composition compass backup data ("backup.xml")
+2.	Restore Composition Compass backup data ("backup.xml")
     
     2.1	Copy "Pandora" folder to "/storage/<external_sdcard_name>/Android/data/com.termux/files"
 
