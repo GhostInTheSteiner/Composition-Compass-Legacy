@@ -1,4 +1,4 @@
-# Composition-Compass
+# Composition Compass
 
 <img src="https://github.com/GhostInTheSteiner/Composition-Compass/blob/master/images/Untitled 6.bmp" width="600">
 
