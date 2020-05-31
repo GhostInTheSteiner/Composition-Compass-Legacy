@@ -99,11 +99,11 @@ Composition Compass offers multiple download options. Each of those is available
 For a download, Termux will be opened and the necessary youtube-dl command be pasted and executed. The songs will be downloaded as opus files to a directory which depends on the chosen download option.
 
 
-1. <ins>For item 'Song Log'</ins>
+1. <ins>For item 'Song Log'</ins>  
 Downloads songs based on metadata found in "song_log.csv" to "Pandora/Downloads".
 
 
-2. <ins>For other items</ins>
+2. <ins>For other items</ins>  
 All other download options are based on Last.fm informations aquired through its API. There are several options to download tracks by artist, by album or by similarity. The 'Download Similar' option can be seen as third 'Radio Source' next to Pandora and Spotify, and might therefore be of special interest to you.
 
 Albums and similar tracks will be placed in "Pandora/Playlists". Tracks by artists in "Pandora/Artists", where each artist will be downloaded to a dedicated folder.
@@ -139,24 +139,24 @@ Asks for an item to listen to, and opens Musicolet along with a local "Station C
 
 The following items are available:
 
-1. <ins>Station</ins>
+1. <ins>Station</ins>  
 This prepares a station folder inside "Pandora/Stations" for playback. Within Musicolet the previously selected station folder needs to be opened afterwards.
 
 
-2. <ins>Favorites</ins>
+2. <ins>Favorites</ins>  
 This prepares the "Favorites" folder for playback. Within Musicolet this folder needs to be opened afterwards.
 
-3. <ins>Anything</ins>
+3. <ins>Anything</ins>  
 This allows to listen to anything, however liking and disliking will be disabled.
 
 
 This interface generally allows to...
 
-1. <ins>Show "Artist Info"</ins>
+1. <ins>Show "Artist Info"</ins>  
 Show an "artist pane" on the left side of the screen, which gives you a short biography about the currently playing artist and the styles usually associated with that artist. Tapping on the biography text exposes Composition Compass' download options and allows you to perform a Google search query for the artist, as well as to open the artist's Last.fm page.
 
 
-2. <ins>"Like" and "Dislike" tracks</ins>
+2. <ins>"Like" and "Dislike" tracks</ins>  
 In "Station" mode (see above) by "liking" a track, the currently playing song will be moved to "Pandora/.Automated/Favorites", so it can be easier found later on. By "disliking" a track the currently playing song will be moved to	"Pandora/.Automated/Recycle Bin" folder. Liking and disliking can happen by the means of physical volume buttons ("Car-Mode") or virtual UI buttons ("Home-Mode").
 
 In "Favorites" mode tracks will be moved to "More interesting" and "Less interesting" subfolders (of the "Favorites" folder) likewise.
@@ -164,11 +164,11 @@ In "Favorites" mode tracks will be moved to "More interesting" and "Less interes
 In "Anything" mode liking and disliking will be disabled. It's just useful if you want to use the artist info pane on its own.
 
 
-3. <ins>"Restart" and "Stop" the station</ins>
+3. <ins>"Restart" and "Stop" the station</ins>  
 Stop to disable volume button triggers and hide the UI, restart to quick fix a bug of Musicolet that might lead to your car radio not showing song meta data (instead you'll just see "Not provided").
 
 
-4. <ins>"Minimize"</ins>
+4. <ins>"Minimize"</ins>  
 This button minimizes the UI to a bubble on the right hand side of the screen. Note: This bubble is *not* movable.
 
 
@@ -182,12 +182,12 @@ The following files and folders are available inside the Pandora folder:
 This is a configuration file for Composition Compass. Two keys are relevant for you:
 
 
-1. <ins>Title exceptions</ins>
+1. <ins>Title exceptions</ins>  
 The value to this key is a regular expression indicating which YouTube videos you *don't* want to be downloaded. If a video title contains any keyword defined in this expression it will be ignored.
 
 You can use this key to e. g. add names of bands you already know and names of bands you don't like. You can also blacklist remixes and the like if you want to.  
 
-2. <ins>Last.fm API key</ins>
+2. <ins>Last.fm API key</ins>  
 Insert yourAPI key here. Required for fetching song / artist informations from Last.fm.
 
 
