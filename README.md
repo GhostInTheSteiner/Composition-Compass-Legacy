@@ -46,7 +46,7 @@ At its core, it supports the following features:
     
       1.7.1  Run 'termux-setup-storage'
       
-      1.7.2  Copy "install_youtubedl.sh" to Termux home directory and run
+      1.7.2  Copy "install_youtubedl.sh" to Termux home directory ("/data/data/com.termux/files/home") and run
       
 &nbsp;
 
