@@ -6,7 +6,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 
 2. Download all those songs automatically from YouTube (as batch download)
     
-    2.1 Alternatively download a specific artist, a specific album or similar songs to a specific one from YouTube (doesn't have anything to do with Pandora, as the songs will be downloaded based on last.fm informations)
+    2.1 Alternatively download a specific artist, a specific album or similar songs to a specific one from YouTube (doesn't have anything to do with Pandora, as the songs will be downloaded based on Last.fm informations)
 
 3. Organise the downloads into local folders (one for each scraped station, artist or album). "Similar tracks" are treated as stations here.
 
