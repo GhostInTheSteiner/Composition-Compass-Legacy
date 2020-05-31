@@ -36,7 +36,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
     
       1.6.1 Pandora from Play Store or external source, depending on Pandora's availability in your country.
       
-      1.6.2 **Composition Compass only supports the use of Pandora through TOR**. If you life in a country where Pandora is accessible without a Proxy just delete the "Launch App -> Orbot" action in the start task of Pandora Scraper project.
+      1.6.2 **Composition Compass only supports the use of Pandora through TOR**. If you life in a country where Pandora is accessible without a proxy just delete the "Launch App -> Orbot" action in the start task of Pandora Scraper project.
       
     1.7	 Install Termux from Play Store
     
