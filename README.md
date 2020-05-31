@@ -83,7 +83,9 @@ At its core, it supports the following features:
 
 ## Features
 
-The following is an explanation of the functionality offered after launching the FrontEnd.
+The following is an explanation of the functionality offered after launching the FrontEnd:
+
+<img src="https://github.com/GhostInTheSteiner/Composition-Compass/blob/master/images/Untitled 3.bmp" width="800">
 
 
 #### Scrape Pandora
@@ -145,7 +147,9 @@ Opens "Drive Sync"-app and starts synchronization of the configured mappings bet
 
 
 #### Listen to...
-Asks for an item to listen to, and opens Musicolet along with a local "Station Control" user interface afterwards
+Asks for an item to listen to, and opens Musicolet along with a local "Station Control" user interface afterwards:
+
+<img src="https://github.com/GhostInTheSteiner/Composition-Compass/blob/master/images/Untitled 4.bmp" width="800">
 
 
 The following **items** are available:
