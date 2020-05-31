@@ -137,7 +137,7 @@ Intended to be used to remove duplicates after a download of new tracks. "File n
 
 
 #### Sync Logs
-Opens "Drive Sync"-app and starts synchronization of the configured mappings between local and remote directory of Google Drive. Benefit of this feature is questionable, but it has been implemented in an attempt to add an integrated synchronization of "Pandora/Logs/"-folder with a folder on Google Drive. Both folders need to be configured in Drive Sync before. Possibly useful if BlueStacks is regularly used to scrape song informations.
+Opens "Drive Sync"-app and starts synchronization of the configured mappings between local and remote directory of Google Drive. Benefit of this feature is questionable, but it has been implemented in an attempt to add an integrated synchronization of "Pandora/Logs/"-folder with a folder on Google Drive. Both folders need to be configured in Drive Sync before. Possibly useful if BlueStacks is used to scrape song informations as well.
 
 
 
