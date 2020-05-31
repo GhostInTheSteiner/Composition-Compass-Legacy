@@ -14,7 +14,7 @@ At its core, it supports the following features:
 
 3. Organise the downloads into local folders (one for each scraped station, artist or album).
 
-3. Play the downloaded songs in "Carmode": You can play a downloaded station folder via Bluetooth and just press Vol+ or Vol- keys (without even looking on your phone) to move the currently playing track to a 'favorites' or ' recycle bin' folder.
+3. Play the downloaded songs in "Carmode": You can play a downloaded station folder via Bluetooth and just press Vol+ or Vol- keys (without even looking on your phone) to move the currently playing track to a 'Favorites' or a 'Recycle Bin' folder.
 
 4. Play the favorites folder in carmode as well. Here Vol+ and Vol- move a track to "More interesting" and "Less interesting" sub-folders.
 
