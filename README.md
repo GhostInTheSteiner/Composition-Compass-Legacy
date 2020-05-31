@@ -3,8 +3,7 @@
 The following is a documentation to **"Composition Compass"**. At its core, it supports the following features:
 
 1. Scrape song informations from Pandora stations/Spotify playlists
-2. Download all those songs automatically from YouTube (as batch download)
-
+2. Download all those songs automatically from YouTube (as batch download)<br></br>
 2.1 Alternatively download a specific artist, a specific album or similar songs to a specific one from YouTube (doesn't have anything to do with Pandora, as the songs will be downloaded based on last.fm informations)
 
 3. Organise the downloads into local folders (one for each scraped station, artist or album). "Similar tracks" are treated as stations here.
@@ -20,15 +19,23 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 
 ## Installation
 
-1.	Install Tasker from Play Store
+1.	Install Tasker from Play Store  
+
 1.1	Install Scroball from Play Store and login to Last.fm
+
 1.2	 Install TouchTask plugin for Tasker from Play Store
+
 1.3	 Install Musicolet from Play Store
+
 1.4 	Install Drive Sync from Play Store
+
 1.5 Install Spotify from Play Store
+
 1.6 Install Pandora and Orbot
+
 1.6.1 Pandora from Play Store or external source, depending on Pandora's availability in your country.
-1.6.2 **Composition Compass only supports the use of Pandora through TOR**. If you life in a country where Pandora is accessible without a Proxy just delete the "Launch App -> Orbot" action in the start task of Pandora Scraper project.
+
+1.6.2 **Composition Compass only supports the use of Pandora through TOR**. If you life in a country where Pandora is accessible without a Proxy just delete the "Launch App -> Orbot" action in the start task of Pandora Scraper project.<br></br>
  
 1.7	 Install Termux from Play Store
 1.7.1  Run 'termux-setup-storage'
