@@ -24,7 +24,9 @@ At its core, it supports the following features:
 
 ## Installation
 
-1.	Install Tasker from Play Store
+0. Ensure your device is rooted. I can't say how much of Composition Compass works without root, but it probably won't be a lot.
+
+1. Install Tasker from Play Store
 
     1.1	Install Scroball from Play Store and login to Last.fm
     
