@@ -167,6 +167,8 @@ This allows to listen to anything, however liking and disliking will be disabled
 
 The **interface** generally allows to...
 
+<img src="https://github.com/GhostInTheSteiner/Composition-Compass/blob/master/images/Untitled 5.bmp" width="800">
+
 1. <ins>Show "Artist Info"</ins>  
 Show an "artist pane" on the left side of the screen, which gives you a short biography about the currently playing artist and the styles usually associated with that artist. Tapping on the biography text exposes Composition Compass' download options and allows you to perform a Google search query for the artist, as well as to open the artist's Last.fm page.
 
