@@ -49,7 +49,11 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 
 2.	Restore composition compass backup data.
 
+&nbsp;
+
 3.	Copy "Pandora" folder to "/storage/<external_sdcard_name>/Android/data/com.termux/files"
+
+&nbsp;
 
 4. Edit configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.
 
