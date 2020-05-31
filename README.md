@@ -153,10 +153,9 @@ Opens "Drive Sync"-app and starts synchronization of the configured mappings bet
 #### Listen to...
 Asks for an item to listen to, and opens Musicolet along with a local "Station Control" user interface afterwards:
 
-<img src="https://github.com/GhostInTheSteiner/Composition-Compass/blob/master/images/Untitled 4.bmp" width="800">
-
-
 The following **items** are available:
+
+<img src="https://github.com/GhostInTheSteiner/Composition-Compass/blob/master/images/Untitled 4.bmp" width="800">
 
 1. <ins>Station</ins>  
 This prepares a station folder inside "Pandora/Stations" for playback. Within Musicolet the previously selected station folder needs to be opened afterwards.
