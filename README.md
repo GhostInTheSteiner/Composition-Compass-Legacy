@@ -1,5 +1,7 @@
 # Composition-Compass
 
+<img src="https://github.com/GhostInTheSteiner/Composition-Compass/blob/master/images/Untitled 6.bmp" width="800">
+
 The following is a documentation to **"Composition Compass"**: A tasker project, that allows you to discover new music you like and artists playing the kind of style that suits your taste.
 
 At its core, it supports the following features:
