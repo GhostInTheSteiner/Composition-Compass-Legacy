@@ -151,7 +151,7 @@ Opens "Drive Sync"-app and starts synchronization of the configured mappings bet
 
 
 #### Listen to...
-Asks for an item to listen to, and opens Musicolet along with a local "Station Control" user interface afterwards:
+Asks for an item to listen to, and opens Musicolet along with a local "Station Control" user interface afterwards.
 
 The following **items** are available:
 
