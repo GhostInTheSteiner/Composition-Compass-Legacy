@@ -106,7 +106,7 @@ Downloads songs based on metadata found in "song_log.csv" to "Pandora/Downloads"
 2. <ins>For other items</ins>  
 All other download options are based on Last.fm informations aquired through its API. There are several options to download tracks by artist, by album or by similarity. The 'Download Similar' option can be seen as third 'Radio Source' next to Pandora and Spotify, and might therefore be of special interest to you.
 
-Albums and similar tracks will be placed in "Pandora/Playlists". Tracks by artists in "Pandora/Artists", where each artist will be downloaded to a dedicated folder.
+  Albums and similar tracks will be placed in "Pandora/Playlists". Tracks by artists in "Pandora/Artists", where each artist will be downloaded to a dedicated folder.
 
 
 
@@ -159,9 +159,9 @@ Show an "artist pane" on the left side of the screen, which gives you a short bi
 2. <ins>"Like" and "Dislike" tracks</ins>  
 In "Station" mode (see above) by "liking" a track, the currently playing song will be moved to "Pandora/.Automated/Favorites", so it can be easier found later on. By "disliking" a track the currently playing song will be moved to	"Pandora/.Automated/Recycle Bin" folder. Liking and disliking can happen by the means of physical volume buttons ("Car-Mode") or virtual UI buttons ("Home-Mode").
 
-In "Favorites" mode tracks will be moved to "More interesting" and "Less interesting" subfolders (of the "Favorites" folder) likewise.
+    In "Favorites" mode tracks will be moved to "More interesting" and "Less interesting" subfolders (of the "Favorites" folder) likewise.
 
-In "Anything" mode liking and disliking will be disabled. It's just useful if you want to use the artist info pane on its own.
+    In "Anything" mode liking and disliking will be disabled. It's just useful if you want to use the artist info pane on its own.
 
 
 3. <ins>"Restart" and "Stop" the station</ins>  
@@ -185,7 +185,7 @@ This is a configuration file for Composition Compass. Two keys are relevant for 
 1. <ins>Title exceptions</ins>  
 The value to this key is a regular expression indicating which YouTube videos you *don't* want to be downloaded. If a video title contains any keyword defined in this expression it will be ignored.
 
-You can use this key to e. g. add names of bands you already know and names of bands you don't like. You can also blacklist remixes and the like if you want to.  
+    You can use this key to e. g. add names of bands you already know and names of bands you don't like. You can also blacklist remixes and the like if you want to.  
 
 2. <ins>Last.fm API key</ins>  
 Insert yourAPI key here. Required for fetching song / artist informations from Last.fm.
