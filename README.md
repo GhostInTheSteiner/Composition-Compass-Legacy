@@ -52,7 +52,7 @@ The following is a documentation to **"Composition Compass"**. At its core, it s
 
 &nbsp;
 
-3. Edit configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.
+3. Open configuration ("config.ini"). For a detailed explanation see "CONFIGURATION" section.
 
     3.1 Add a Last.fm API key
   
